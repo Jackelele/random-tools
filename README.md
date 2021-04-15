@@ -26,8 +26,10 @@ Here is a list of some random tools I've came across when developing, designing 
 ## AI
 
 * [ShortlyAI](https://shortlyai.com/) - Get writing superpowers with an AI writing partner. At the click of a button, our AI can continue writing for you, help you get your thoughts on paper, and more. [FREE/PAID]
+* [Kamua](https://kamua.com/) - Automating video editing [FREE]
 
 
 ## Other/Misc
 
 * [Softr](https://www.softr.io/) - Create Websites & Applications [FREE]
+* [Finary](https://finary.eu/) - The ultimate Portfolio Tracker. [FREE]
