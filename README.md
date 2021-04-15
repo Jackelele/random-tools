@@ -5,14 +5,19 @@ Here is a list of some random tools I've came across when developing, designing 
 
 * [Uxcel](https://uxcel.com/) - The world’s best professional platform to assess, learn, and showcase your UX/UI design skills. [FREE]
 * [Haikei](https://haikei.app/) - Generate unique SVG design assets [FREE]
+* [UIzard](https://uizard.io/) - Convert sketches into mockups in seconds [FREE]
+* [Previewed](https://previewed.app/) - The simplest way to create device mockups. [FREE]
 
 ## Open Source
 
 * [Clone Wars](https://gourav.io/clone-wars) - 100+ open-source clones or alternatives of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Trello, Whatsapp, Youtube, etc. [FREE]
+* [Remix Icon](https://remixicon.com/) - Library of Icons [FREE]
 
 ## Images
 
 * [OGImage](https://www.ogimage.gallery/) - Images & Inspiration for projects. [FREE]
+* [ManyPixels](https://www.manypixels.co/gallery) - Free illustrations library [FREE]
+
 
 ## Music
 
