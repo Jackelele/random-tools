@@ -7,6 +7,8 @@ Here is a list of some random tools I've came across when developing, designing 
 * [Haikei](https://haikei.app/) - Generate unique SVG design assets [FREE]
 * [UIzard](https://uizard.io/) - Convert sketches into mockups in seconds [FREE]
 * [Previewed](https://previewed.app/) - The simplest way to create device mockups. [FREE]
+* [Crello](https://crello.com/) - Graphic design design softoware [FREE] (Canva alternative, has paid features)
+* 
 
 ## Open Source
 
@@ -17,7 +19,13 @@ Here is a list of some random tools I've came across when developing, designing 
 
 * [OGImage](https://www.ogimage.gallery/) - Images & Inspiration for projects. [FREE]
 * [ManyPixels](https://www.manypixels.co/gallery) - Free illustrations library [FREE]
+* [Remove.bg](https://www.remove.bg/) - Removes the background [1 IMAGE FREE/PAID]
+* [TailorBrands](https://www.tailorbrands.com/) - Kickstart your business with logos! [PAID]
 
+## Videos
+
+* [GoTolstoy](https://www.gotolstoy.com/) - A new way to communicate with an interactive video [FREE]
+* [Jitter](https://jitter.video/) 
 
 ## Music
 
@@ -32,9 +40,15 @@ Here is a list of some random tools I've came across when developing, designing 
 
 * [ShortlyAI](https://shortlyai.com/) - Get writing superpowers with an AI writing partner. At the click of a button, our AI can continue writing for you, help you get your thoughts on paper, and more. [FREE/PAID]
 * [Kamua](https://kamua.com/) - Automating video editing [FREE]
+* [Axiom](https://axiom.ai/) - Automate tasks [FREE/PAID]
+* [Snazzy](https://snazzy.ai/) - Create content for your brand [FREE/PAID]
 
 
 ## Other/Misc
 
 * [Softr](https://www.softr.io/) - Create Websites & Applications [FREE]
 * [Finary](https://finary.eu/) - The ultimate Portfolio Tracker. [FREE]
+* [Pitch](https://pitch.com/) - Presentation creation tool [FREE]
+* [ImportYeti](https://www.importyeti.com/)
+* [CopyAI](https://www.copy.ai/prices)
+* [SimilarTech](https://www.similartech.com/)
