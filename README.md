@@ -3,12 +3,11 @@ Here is a list of some random tools I've came across when developing, designing 
 
 ## UI/UX
 
-* [Uxcel](https://uxcel.com/) - The world’s best professional platform to assess, learn, and showcase your UX/UI design skills. [FREE]
+* [Uxcel](https://uxcel.com/) - The world’s best professional platform to assess, learn, and showcase your UX/UI design skills. [FREE/PAID]
 * [Haikei](https://haikei.app/) - Generate unique SVG design assets [FREE]
 * [UIzard](https://uizard.io/) - Convert sketches into mockups in seconds [FREE]
 * [Previewed](https://previewed.app/) - The simplest way to create device mockups. [FREE]
 * [Crello](https://crello.com/) - Graphic design design softoware [FREE] (Canva alternative, has paid features)
-* 
 
 ## Open Source
 
@@ -25,7 +24,8 @@ Here is a list of some random tools I've came across when developing, designing 
 ## Videos
 
 * [GoTolstoy](https://www.gotolstoy.com/) - A new way to communicate with an interactive video [FREE]
-* [Jitter](https://jitter.video/) 
+* [Jitter](https://jitter.video/) - Create motion images [FREE/PAID]
+* [Animatron](https://www.animatron.com/) - Create Animations
 
 ## Music
 
@@ -49,6 +49,8 @@ Here is a list of some random tools I've came across when developing, designing 
 * [Softr](https://www.softr.io/) - Create Websites & Applications [FREE]
 * [Finary](https://finary.eu/) - The ultimate Portfolio Tracker. [FREE]
 * [Pitch](https://pitch.com/) - Presentation creation tool [FREE]
-* [ImportYeti](https://www.importyeti.com/)
-* [CopyAI](https://www.copy.ai/prices)
-* [SimilarTech](https://www.similartech.com/)
+* [ImportYeti](https://www.importyeti.com/) - Find any company's suppliers [FREE]
+* [CopyAI](https://www.copy.ai/) - AI Writing Tools [FREE/PAID]
+* [SimilarTech](https://www.similartech.com - Search for technology of a company [FREE/PAID]
+* [KickResume](https://www.kickresume.com/en/) - Create Resume (CVs) and Cover Letters (FREE/PAID)
+* 
